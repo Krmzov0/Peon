@@ -1,0 +1,7 @@
+.LinkCard:hover .LinkArrow{
+    opacity: 1;
+    right: 0;
+}
+.LinkCard{
+    cursor: pointer;
+}
