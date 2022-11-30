@@ -68,7 +68,7 @@ function Homepage() {
 
         </div></motion.div>
 
-        <motion.div transition={{ type: "spring", stiffness: 700 }} initial={{ scale: 1 }} whileHover={{ scale: 1.10 }} whileTap={{ y: 2.5 }} className='bg-[#1e1e24] text-white rounded-3xl row-span-3 h-96 sm:h-full flex flex-col justify-between p-8 shadow-sm LinkCard'><div className='bg-[#1e1e24] text-white rounded-3xl row-span-3 h-96 sm:h-full flex flex-col justify-between p-8 shadow-sm LinkCard'>
+        <motion.div transition={{ type: "spring", stiffness: 700 }} initial={{ scale: 1 }} whileHover={{ scale: 1.10 }} whileTap={{ y: 2.5 }} className='bg-[#1e1e24] text-white rounded-3xl row-span-3 h-96 sm:h-full flex flex-col justify-between shadow-sm LinkCard'><div className='bg-[#1e1e24] text-white rounded-3xl row-span-3 h-96 sm:h-full flex flex-col justify-between p-8 shadow-sm LinkCard'>
           <div className='w-full flex justify-between items-center'>
             <PaperPlaneTilt size={52} color="#ee1c25" weight="thin" />
 
